@@ -1,0 +1,23 @@
+{
+    "joy": [
+        "joy", "JOY", "blessedness", "bliss", "blissfulness", "felicity", "Hapiness", "happiness", "warm fuzzies",
+        "delectation", "delight", "feast", "manna", "pleasure", "treat",
+        "crow", "delights", "Love", "excited", "glory", "jubilate", "kvell", "rejoice", "triumph",
+        ":grinning_face:", ":red_heart:", ":smiling_face_with_heart-eyes:"
+    ],
+    "fear": [
+        "fear", "Fear", "alarum", "anxiety", "dread", "fearfulness", "Horror", "horror", "panic", "scare", "terror", "trepidation",
+        "agita", "deathanxiety", "anxiety", "anxiousness", "apprehension", "apprehensiveness", "care", "concern", "concernment", "disquiet", "disquietude", 
+        "nervosity", ":skull_and_crossbones:", ":broken_heart:",":loudly_crying_face:"
+    ],
+    "sadness": [
+        "sadness", "blue devils", "blues", "grief", "depression", "desolation", "mentalhealth", "loss", "despair", "disconsolateness", 
+        "dispiritedness", "doldrums", "dolefulness", "downheartedness", "dreariness", "dumps", "Loss", "gloom", "gloominess", 
+        "sorrow", "heartsickness", "joylessness", "melancholy", "miserableness",":skull_and_crossbones:", ":broken_heart:",":loudly_crying_face:"
+    ],
+    "anger": [
+        "anger", "angriness", "birse", "choler", "furor", "fury", "FURY", "irateness", "ire", "Frustration", "lividness", "mad", 
+        "madness", "mood", "outrage", "rage", "MAD", "wrath", "Madness",
+        "enrage", "Rage", "inflame", "enflame", "infuriate", ":pensive_face:", ":black_large_square:", ":skull_and_crossbones:"
+    ]
+}
